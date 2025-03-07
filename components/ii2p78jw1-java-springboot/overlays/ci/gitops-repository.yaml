@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ii2p78jw1-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ii2p78jw1-java-springboot-gitops
